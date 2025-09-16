@@ -11,18 +11,22 @@ Unreal Engine 5의 블루프린트 코딩을 전반적으로 활용하여 게임
 플레이어 이동 구현
 
 
-| view | 블루프린트 컴포넌트 | gdscript |
+| view | 블루프린트 컴포넌트 | 노드 |
 |---|---|---|
-|  | <img width="483" height="217" alt="스크린샷 2025-09-15 오후 1 53 28" src="https://github.com/user-attachments/assets/240257c0-c61e-4fa6-a012-aba7f7b7ca71" /> | <img width="484" height="469" alt="스크린샷 2025-09-15 오후 12 35 54" src="https://github.com/user-attachments/assets/0153fc19-495f-40e2-b440-a182fcf5a5f3" /> |
+| ![move](https://github.com/user-attachments/assets/16f79245-4b7f-4c13-a29b-79ad056cd717) | <img width="483" height="217" alt="스크린샷 2025-09-15 오후 1 53 28" src="https://github.com/user-attachments/assets/240257c0-c61e-4fa6-a012-aba7f7b7ca71" /> | <img width="480" height="331" alt="스크린샷 2025-09-15 오후 1 58 30" src="https://github.com/user-attachments/assets/5e5d9484-aa8c-4271-93f4-f1b02090814b" /> |
 
 플레이어 item pickup 구현
 
-| 뷰포트 | GameOver | gdscript |
-|---|---|---|
-| <img width="607" height="426" alt="스크린샷 2025-09-15 오후 12 35 07" src="https://github.com/user-attachments/assets/6d0a5412-8f68-4be0-bb00-aef1bbe626e6" /> | <img width="440" height="364" alt="스크린샷 2025-09-15 오후 12 35 22" src="https://github.com/user-attachments/assets/5e18caf1-efa2-4a15-9202-f7ad9d712c61" /> | <img width="484" height="469" alt="스크린샷 2025-09-15 오후 12 35 54" src="https://github.com/user-attachments/assets/0153fc19-495f-40e2-b440-a182fcf5a5f3" /> |
+| 뷰포트 | 블루프린트 컴포넌트 |
+|---|---|
+| ![pickup](https://github.com/user-attachments/assets/a49a52a0-6c4c-4f0a-a490-4dc328c8428a) | <img width="303" height="194" alt="스크린샷 2025-09-15 오후 2 06 27" src="https://github.com/user-attachments/assets/9beb9e61-523c-4378-a899-a7df1344895a" /> | 
 
 플레이어 weapon fire 구현
 
-| 뷰포트 | GameOver | gdscript |
-|---|---|---|
-| <img width="607" height="426" alt="스크린샷 2025-09-15 오후 12 35 07" src="https://github.com/user-attachments/assets/6d0a5412-8f68-4be0-bb00-aef1bbe626e6" /> | <img width="440" height="364" alt="스크린샷 2025-09-15 오후 12 35 22" src="https://github.com/user-attachments/assets/5e18caf1-efa2-4a15-9202-f7ad9d712c61" /> | <img width="484" height="469" alt="스크린샷 2025-09-15 오후 12 35 54" src="https://github.com/user-attachments/assets/0153fc19-495f-40e2-b440-a182fcf5a5f3" /> |
+| 뷰포트 |  그래프 노드 |
+|---|---|
+| ![fire](https://github.com/user-attachments/assets/acfb7a92-cb06-4d3a-815f-c19c5f8d54a8) | <img width="729" height="176" alt="스크린샷 2025-09-15 오후 2 17 21" src="https://github.com/user-attachments/assets/e84e8e9d-b929-48aa-a161-174952964821" /> |
+
+
+
+
